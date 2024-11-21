@@ -1,0 +1,12 @@
+h1{
+    color: aqua;
+    text-align: center;
+    justify-content: center;
+    text-decoration: solid;
+    margin: auto;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.body{
+    background: wheat;
+    
+}
