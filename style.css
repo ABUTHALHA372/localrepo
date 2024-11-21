@@ -10,3 +10,13 @@ h1{
     background: wheat;
     
 }
+nav{
+    background-color: violet;
+    color: white;
+}
+.leftsection{
+    margin: auto;
+    color:whitesmoke;
+    margin: 10px ;
+    padding: 10px 10px;
+}
